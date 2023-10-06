@@ -10,3 +10,4 @@ List of scripts :
 7- moves the file betty from /tmp/ to /tmp/my_first_directory
 8- deletes the file betty
 9- deletes the directory my_first_directory that is in the /tmp directory
+10- changes the working directory to the previous one
