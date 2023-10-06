@@ -6,3 +6,4 @@ List of scripts :
 3- displays current directory contents in a long format
 4- displays current directory contents in a long format, including hidden files
 5- displays current directory contents
+6- creates a directory named my_first_directory in the /tmp/ directory
